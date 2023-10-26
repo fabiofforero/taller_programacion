@@ -16,7 +16,7 @@
         <a href="./views/listaCursos.php">Cursos</a> 
     </div>
     <div class="container2"> 
-        <a href="./taller_progamacion">REGRESAR</a>
+        <a href="../index.html">REGRESAR</a>
     </div>
 </div>
 
