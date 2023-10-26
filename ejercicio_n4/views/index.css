@@ -46,3 +46,21 @@
 .container2{
     margin-top: 5vh;
 }
+
+.regresar{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 3vh;
+    width: 10vh;
+    background-color: rgb(231, 167, 130);
+    border: none;
+    box-shadow: 2px 2px 5px 5px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+    height: 5vh;
+    width: 30vh;
+    font-size: 1.2rem;
+    margin-top: 5vh;
+    border-radius: 15px;
+}
