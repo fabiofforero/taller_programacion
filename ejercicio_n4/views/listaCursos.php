@@ -67,7 +67,7 @@ $lista = $cursoController->allData();
             ?>
         </tbody>
     </table>
-            <a href="./taller_progamacion">REGRESAR</a>
+            <a style="padding-top: 4vh;" href="../index.php">REGRESAR</a>
 </div>
     
 </body>
