@@ -15,7 +15,7 @@
     <div class="container2"> 
         <a href="./views/listaCursos.php">Cursos</a> 
     </div>
-    <div class="container2"> 
+    <div style="background-color: rgb(231, 167, 130);" class="container2"> 
         <a href="../index.html">REGRESAR</a>
     </div>
 </div>
