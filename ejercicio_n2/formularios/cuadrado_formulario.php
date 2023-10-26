@@ -11,7 +11,7 @@
 <h1>CUADRADO</h1>
 <form action="../calcular_area.php" method="post">
         <h1>Lado</h1>
-    <input style="height: 6vh;" type="number" name="lado"><br>
+    <input style="height: 6vh;" type="number" name="lado" required><br>
         <div>
         <input style="margin-bottom: 3vh;" type="hidden" name="tipo_figura" value="cuadrado">
         </div>
