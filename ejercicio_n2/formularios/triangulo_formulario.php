@@ -11,9 +11,9 @@
 <h1>TRIANGULO</h1>
     <form action="../calcular_area.php" method="post">
         <h1>Base</h1>
-        <input style="height: 6vh;" type="number" name="base">
+        <input style="height: 6vh;" type="number" name="base" required>
         <h1>Altura</h1>
-        <input style="height: 6vh;" type="number" name="altura">
+        <input style="height: 6vh;" type="number" name="altura" required>
 
         <div>
         <input type="hidden" name="tipo_figura" value="triangulo">
